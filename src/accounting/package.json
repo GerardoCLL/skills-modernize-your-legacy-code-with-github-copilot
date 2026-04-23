@@ -1,0 +1,12 @@
+{
+  "name": "accounting",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Node.js rewrite of the legacy COBOL student account application.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  }
+}
